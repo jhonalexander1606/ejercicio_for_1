@@ -15,7 +15,7 @@ n = int(input("ingrese la cantidad de veces que va lanzar los dados: "))
 
 #processing
 
-for i in range(n):
+for i in range(n*2):
     cd = random.randint(1,6)
     if cd == 1:
         c1 += "*"
