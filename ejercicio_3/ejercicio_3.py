@@ -33,9 +33,9 @@ for i in range(n*2):
 #output
 
 print(f"""
-1 = {c1}
-2 = {c2}
-3 = {c3}
-4 = {c4}
-5 = {c5}
-6 = {c6} """)
+1 = {c1} cara lado 1 
+2 = {c2} cara lado 2
+3 = {c3} cara lado 3
+4 = {c4} cara lado 4
+5 = {c5} cara lado 5
+6 = {c6} cara lado 6""")
