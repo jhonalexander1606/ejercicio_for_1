@@ -9,10 +9,9 @@ fa = 1
 a = 1
 
 # processing
-for i in range (n):
-    fa = fa*a
-    a += 1
+for i in range (1,n+1):
+    fa *= i
 
 #output
 
-print(f"el factorial del numero es {fa}")
+print(f"el factorial del numero {n} es {fa}")
