@@ -1,4 +1,4 @@
-# ejercicio_for_1
+# ejercicios_for
 
 1. leer N numeros enteros (uno en cada lectura) mostras e imprimir cuantos son pares y cuantos son impares.
 2. mostrar e miprimir cuantos multiplos de 7 y cuantos multiplos de 9 hay entre 1000 y 5000.
